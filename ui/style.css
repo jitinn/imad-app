@@ -11,6 +11,12 @@ body {
     left:0;
 }
 
+.space {
+    margin-top: 300px;
+    
+    
+}
+
 .text-big {
     font-size: 300%;
 }
