@@ -4,8 +4,11 @@ body {
     margin-top: 75px;
 }
 
-.center {
+.logo {
     text-align: top-left;
+    position:fixed; 
+    top:0; 
+    left:0;
 }
 
 .text-big {
