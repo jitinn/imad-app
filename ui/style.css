@@ -6,8 +6,8 @@ body {
 
 
 .title{
-    
-    text-align:center;
+    position:fixed;
+    padding-left:250px;
     
 }
 .logo {
