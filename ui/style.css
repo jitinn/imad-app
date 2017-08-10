@@ -19,12 +19,13 @@ body {
 
 .space {
     margin-top: 300px;
-    
+    padding-left:20px;
     
 }
 
 .text-big {
     font-size: 200%;
+    padding-left:20px;
 }
 
 .bold {
