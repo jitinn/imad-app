@@ -4,6 +4,10 @@ body {
     margin-top: 75px;
 }
 
+.tag{
+    font-family:courier;
+    color:red;
+}
 
 .title{
     position:fixed;
